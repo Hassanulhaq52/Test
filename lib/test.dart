@@ -13,8 +13,8 @@ class _TestState extends State<Test> {
     return const Scaffold(
       body: ListTile(
         leading: CircleAvatar(),
-        title: Text("Hassan"),
-        subtitle: Text("hi! how are you?"),
+        title: Text("Anwar"),
+        subtitle: Text("hi! How about your friend?"),
         trailing: CircleAvatar(
           radius: 15,
           child: Text("1"),
